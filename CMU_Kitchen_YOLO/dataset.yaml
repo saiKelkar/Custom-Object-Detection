@@ -1,0 +1,15 @@
+path: C:\Users\kelka\OneDrive\Documents\CV-DL-projects\CMU_Kitchen_YOLO
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: bakingpan
+  1: colander
+  2: cup
+  3: pitcher
+  4: saucepan
+  5: scissors
+  6: shaker
+  7: thermos
